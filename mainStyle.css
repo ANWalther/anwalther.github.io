@@ -23,6 +23,8 @@ td
 td#content
 {
     min-width: 768px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 td#sidebar
