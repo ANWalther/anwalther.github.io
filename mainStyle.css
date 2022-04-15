@@ -3,6 +3,8 @@ html, body
     margin: 0px;
     height: 100%;
     font-family: Verdana, Geneva, sans-serif;
+    color:darkslategray;
+    background-color: rgb(207, 199, 225);
 }
 
 table#main
@@ -25,13 +27,14 @@ td#content
     min-width: 768px;
     text-align: center;
     vertical-align: auto;
-    padding-top: 50px;
+    padding-left: 40px;
+    padding-right: 40px;
     font-size: 20px;
 }
 
 td#sidebar
 {
-    background-color: #e66755;
+    background-color: #695d98;
     width: 25%;
     min-width: 256px;
     text-align: center;
